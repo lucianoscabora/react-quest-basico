@@ -1,5 +1,3 @@
-import '../components/paragrafoMaiusculoColorido.css'
-
 const ParagrafoMaiusculoColorido = ({paragraphColor, upperCaseParagraph}) => {
     return (
     <div>
